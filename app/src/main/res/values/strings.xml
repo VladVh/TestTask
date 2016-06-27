@@ -1,0 +1,10 @@
+<resources>
+    <integer name="com_vk_sdk_AppId">5522746</integer>
+
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_feed">Feed from group</string>
+
+    <string name="like_button">Like</string>
+
+</resources>
